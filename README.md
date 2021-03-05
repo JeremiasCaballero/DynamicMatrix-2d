@@ -1,4 +1,4 @@
-# DInamicMatriz-2d
+# DynamicMatrix-2d
 implements dynamic matrix structu with Arraylist class in java
 
 
